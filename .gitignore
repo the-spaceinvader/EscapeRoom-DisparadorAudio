@@ -1,0 +1,11 @@
+# Local tooling and working notes
+.claude/
+CLAUDE.md
+.DS_Store
+
+# Intermediate phase sketches (history kept locally only; the final firmware is in Fase5_*)
+Fase1_Sensor/
+Fase2_Audio/
+Fase3_Logica/
+Fase4_Mestre/
+Fase4_Remoto/
