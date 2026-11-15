@@ -13,6 +13,7 @@ Cada sensor de distância funciona como uma barreira de um lado ao outro do corr
 |---|---|
 | [`SPEC.md`](SPEC.md) | Especificação funcional (a referência) |
 | [`DECISIONS.md`](DECISIONS.md) | Decisões de projeto, hardware verificado e resultados dos testes de cada fase |
+| [`Manual_Instalacao.md`](Manual_Instalacao.md) | Manual de instalação: ligações, cartão de áudio, firmware e primeira configuração |
 | [`Manual_Utilizacao.md`](Manual_Utilizacao.md) | Manual de utilização |
 
 O `DECISIONS.md` cita sketches das Fases 1 a 4 (por exemplo `Fase3_Logica/Fase3_Logica.ino`). São etapas intermédias de desenvolvimento e não fazem parte deste repositório. O firmware final está em `Fase5_Mestre/` e `Fase5_Remoto/`.
